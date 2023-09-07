@@ -30,7 +30,7 @@ function Header(){
                         </ul>
                     </li>
                     <li><a href="#">커뮤니티</a></li>
-                    <li><a href="#">관광지 뉴스 검색</a></li>
+                    <li><a href="/news/news_find">관광지 뉴스 검색</a></li>
                     <li><a className="drop" href="#">오늘의 날씨</a>
                         <ul>
                             <li><a href="#">Level 2</a></li>
